@@ -7,7 +7,7 @@ tags: 流动人口 北京 2017北京清人
 
 今年暑假，我们在北京拍摄了一所打工子弟学校被拆迁的故事，两个多月过去了，北京清退的不仅没有停止，而且更为猛烈了。这所学校的故事，正是“腾退时代”北京打工子弟学校的缩影
 
-<iframe width="640" height="360" src="https://youtu.be/Erva2t6bK3g" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Erva2t6bK3g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <!--more-->
 
